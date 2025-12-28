@@ -1,0 +1,14 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Venv or other temporary files
+*.venv
+
+# Zip archives
+ARCHIVE.ZIP
+MNIST_CSV.ZIP
+
