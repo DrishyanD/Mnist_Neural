@@ -12,3 +12,5 @@ __pycache__/
 ARCHIVE.ZIP
 MNIST_CSV.ZIP
 
+# Ignore the data folder and all its contents
+data/
